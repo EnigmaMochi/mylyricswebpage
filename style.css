@@ -1,0 +1,32 @@
+*{
+    color:white;
+}
+
+body {
+background-image: url(Rainy.gif);
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+background-position: center;
+}
+
+
+.container {
+max-width: 800px;
+margin: 20px auto;
+padding: 20px;
+background-color: rgba(63, 95, 238, 0.2);
+border-radius: 50px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+}
+
+.lyrics {
+max-width: 800px;
+margin: 20px auto;
+padding: 20px;
+background-color: rgba(63, 95, 238, 0.2);
+border-radius: 50px;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+overflow: hidden;
+}
